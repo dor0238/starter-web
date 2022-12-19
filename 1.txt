@@ -2,3 +2,7 @@ hello my name is dor
 good bye!
 bye
 bye!!!
+another line
+added
+good
+bye!
