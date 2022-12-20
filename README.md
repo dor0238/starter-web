@@ -9,4 +9,5 @@ added one more thing
 
 ## How To Contribute
 
-
+## Copyright
+added copyright
