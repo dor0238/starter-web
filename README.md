@@ -2,7 +2,7 @@
 This is a sample of git README file modified
 added one more thing
 ## Introduction
-
+hello my friends!
 ## Purpose
 another edit for somthing
 ## Deployment
